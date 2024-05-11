@@ -55,7 +55,7 @@
 </html>
 ```
 ## OUTPUT
-![list](https://github.com/SUDHARSAN011705/Ex02_Web-Design/assets/167398236/39f7a47b-2b43-413b-9c95-29df91550f90)
+![327063304-e3611836-eab7-43f2-a4f0-823171ef281d](https://github.com/SUDHARSAN011705/Ex02_Web-Design/assets/167398236/7e386b17-9cb9-4873-9f7f-b95915a619ea)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
